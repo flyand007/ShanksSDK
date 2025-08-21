@@ -1,0 +1,22 @@
+{
+  "name": "QMKJShanks",
+  "version": "0.1.0",
+  "summary": "A short description of QMKJShanks.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/flyand007/QMKJShanks",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "flyand007": "lijian@quanjing.com"
+  },
+  "source": {
+    "git": "https://github.com/flyand007/QMKJShanks.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "QMKJShanks/Classes/**/*"
+}
