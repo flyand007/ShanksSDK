@@ -1,6 +1,0 @@
-framework module Pods_QMKJShanks_Tests {
-  umbrella header "Pods-QMKJShanks_Tests-umbrella.h"
-
-  export *
-  module * { export * }
-}
