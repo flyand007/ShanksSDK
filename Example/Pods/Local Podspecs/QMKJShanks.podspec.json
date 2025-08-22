@@ -1,6 +1,6 @@
 {
   "name": "QMKJShanks",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A short description of Panther.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/flyand007/ShanksSDK.git",
@@ -13,9 +13,6 @@
   },
   "source": {
     "http": "https://github.com/flyand007/ShanksSDK/releases/download/1.0.0/QMKJShanks.zip"
-  },
-  "ios": {
-    "vendored_frameworks": "QMKJShanks.framework"
   },
   "platforms": {
     "ios": "13.0"

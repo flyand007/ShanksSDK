@@ -146,7 +146,7 @@ PODS:
   - MintegralAdSDK/SplashAd (7.7.7):
     - MintegralAdSDK/NativeAd
   - PromisesObjC (2.4.0)
-  - QMKJShanks (1.0.0):
+  - QMKJShanks (1.0.2):
     - AppLovinMediationBigoAdsAdapter (~> 4.6.0.0)
     - AppLovinMediationFacebookAdapter (~> 6.17.1.0)
     - AppLovinMediationFyberAdapter (~> 8.3.5.1)
@@ -266,7 +266,7 @@ SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MintegralAdSDK: 190c6cd3d83b31b51833e3341857c58dc430da2e
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
-  QMKJShanks: 548edb5e7cf5de210193a6cec8a8bd90ee2ce370
+  QMKJShanks: daa3224970dc7bead72010f597c2e6802332de50
   SensorsAnalyticsSDK: aeca2a28098170d1f7d23e06c7d1850e94a91c98
   SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
   SVProgressHUD: 4837c74bdfe2e51e8821c397825996a8d7de6e22
