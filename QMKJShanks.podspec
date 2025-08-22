@@ -25,11 +25,11 @@ TODO: Add long description of the pod here.
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'fisher' => 'xxxxxxxxx@qq.com' }
-  s.source = { :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.0.0/QMKJShanks.zip' }
+  s.source           = { :git => 'https://github.com/flyand007/ShanksSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-#  s.ios.vendored_frameworks = 'QMKJShanks.framework'
-
+  s.ios.vendored_frameworks = 'Framework/QMKJShanks.framework'
+  
   s.ios.deployment_target = '13.0'
   s.static_framework = true
   s.swift_version = '5.0'
