@@ -7,11 +7,12 @@
 //
 
 import UIKit
-
+import QMKJShanks
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        QMKJShanks().test()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
