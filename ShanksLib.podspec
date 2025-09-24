@@ -7,6 +7,7 @@
 #
 
 Pod::Spec.new do |s|
+  s.platform = :ios, '11.0'
   s.name             = 'ShanksLib'
   s.version          = '0.1.0'
   s.summary          = 'ShanksLib binary distribution'
@@ -19,7 +20,7 @@ Pod::Spec.new do |s|
 
   # 二进制文件下载地址
   s.source           = {
-    :http => 'https://github.com/你的用户名/ShanksLib/releases/download/0.1.0/ShanksLib.framework.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.0.0/ShanksLib.framework.zip'
   }
 
   s.ios.deployment_target = '11.0'
