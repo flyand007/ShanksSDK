@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.platform = :ios, '11.0'
-  s.name             = 'ShanksLib'
+  s.name             = 'Shanks'
   s.version          = '0.1.0'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
