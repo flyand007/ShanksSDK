@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
 
   # 告诉 CocoaPods 引入 vendored framework
-  s.vendored_frameworks = 'Framework/Shanks.xcframework'
+  s.vendored_frameworks = 'Shanks.xcframework'
 end
