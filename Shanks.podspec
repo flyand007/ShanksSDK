@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.platform = :ios, '11.0'
   s.name             = 'Shanks'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
     ShanksLib 是一个闭源 Framework，提供 XXX 功能。
@@ -17,14 +17,13 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/你的用户名/ShanksLib'
   s.license          = { :type => 'Commercial', :text => 'Proprietary software' }
   s.author           = { 'Your Name' => 'your@email.com' }
-
   # 二进制文件下载地址
   s.source           = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.0.0/ShanksLib.framework.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.0.0/Shanks.xcframework.zip'
   }
 
   s.ios.deployment_target = '11.0'
 
   # 告诉 CocoaPods 引入 vendored framework
-  s.vendored_frameworks = 'ShanksLib.framework'
+  s.vendored_frameworks = 'Framework/Shanks.xcframework'
 end
