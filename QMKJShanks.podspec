@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Your Name' => 'your@email.com' }
   # 二进制文件下载地址
   s.source           = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.0/Shanks.xcframework.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.0/QMKJShanks.xcframework.zip'
   }
 
   s.ios.deployment_target = '13.0'
