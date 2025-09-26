@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.platform = :ios, '13.0'
   s.name             = 'QMKJShanks'
-  s.version          = '1.1.0'
+  s.version          = '1.1.2'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
     ShanksLib 是一个闭源 Framework，提供 XXX 功能。
@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Your Name' => 'your@email.com' }
   # 二进制文件下载地址
   s.source           = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.0/QMKJShanks.xcframework.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.2/QMKJShanks.xcframework.zip'
   }
 
   s.ios.deployment_target = '13.0'
