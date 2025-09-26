@@ -1,0 +1,334 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.2 effective-5.10 (swiftlang-6.2.0.19.9 clang-1700.3.19.1)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name QMKJShanks
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2
+import AppLovinSDK
+import AppTrackingTransparency
+import AppsFlyerAdRevenue
+import AppsFlyerLib
+import BigoADS
+import FirebaseRemoteConfig
+import Foundation
+import GoogleMobileAds
+import Network
+import OSLog
+@_exported import QMKJShanks
+import SensorsAnalyticsSDK
+import SnapKit
+import Swift
+import UIKit
+import UserMessagingPlatform
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import com_huntmobi_web2app
+@objc @_inheritsConvenienceInitializers public class CMPDebugSettings : UserMessagingPlatform.DebugSettings {
+  @objc override dynamic public init()
+  public init(isDebug: Swift.Bool = false, geography: UserMessagingPlatform.DebugGeography = DebugGeography.EEA, testDeviceIdentifiers: [Swift.String] = [UIDevice.current.identifierForVendor?.uuidString ?? ""], autoShowConsentForm: Swift.Bool = false)
+  @objc deinit
+}
+public class CMP {
+  public init()
+  public func reset()
+  public var isConsent: Swift.Bool {
+    get
+  }
+  public var isConsentFormAvailable: Swift.Bool {
+    get
+  }
+  public var isGDPR: Swift.Bool {
+    get
+  }
+  public var canRequestAds: Swift.Bool {
+    get
+  }
+  public var isConsentFormPresented: Swift.Bool {
+    get
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func presentPrivacyOptions(completion: @escaping ((any Swift.Error)?) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func showConsentForm(setting: QMKJShanks.CMPDebugSettings = CMPDebugSettings(isDebug: false), tagForUnderAgeOfConsent: Swift.Bool = false, completion: @escaping ((any Swift.Error)?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+public enum QMKJAdapterError : Swift.Error, Swift.Equatable {
+  case qmkj_notInitialized(code: Swift.Int = 2001, description: Swift.String = "Adapter not initialized")
+  case qmkj_notLoaded(code: Swift.Int = 2002, description: Swift.String = "Ad not loaded")
+  case qmkj_timeout(code: Swift.Int = 2003, description: Swift.String = "Ad loading timed out")
+  case qmkj_networkError(code: Swift.Int = 2004, description: Swift.String = "Network error")
+  case qmkj_invalidConfiguration(code: Swift.Int = 2005, description: Swift.String = "Invalid configuration")
+  case qmkj_positionNotFound(code: Swift.Int = 2006, description: Swift.String = "Position not found")
+  case qmkj_adNotCached(code: Swift.Int = 2007, description: Swift.String = "No cached ad available for position.")
+  case qmkj_adCachedNotReady(code: Swift.Int = 2008, description: Swift.String = "Cached ad not ready")
+  case qmkj_adShowFailded(code: Swift.Int = 2009, description: Swift.String = "Mediation error")
+  case qmkj_adLoadFailded(code: Swift.Int = 2010, description: Swift.String = "Mediation error")
+  case qmkj_adSwitchIsOff(code: Swift.Int = 2011, description: Swift.String = "Switch is off")
+  case qmkj_adContainViewIsNil(code: Swift.Int = 2012, description: Swift.String = "Contain view is nil")
+  case qmkj_typeOrMediationNotSupport(code: Swift.Int = 2013, description: Swift.String = "Type or mediation not supported")
+  case qmkj_loadTimeout(code: Swift.Int = 2014, description: Swift.String = "Ad load timed out")
+  case qmkj_unknown(code: Swift.Int = 2000, description: Swift.String = "Unknown adapter error")
+  public func getErrorDetails() -> (code: Swift.Int, description: Swift.String)
+  public static func == (a: QMKJShanks.QMKJAdapterError, b: QMKJShanks.QMKJAdapterError) -> Swift.Bool
+}
+public enum QMKJAdLifecycleState {
+  case initialized
+  case loading
+  case loaded
+  case loadFailed
+  case showing
+  case shown
+  case showFailed
+  case clicked
+  case closed
+  case rewarded
+  public static func == (a: QMKJShanks.QMKJAdLifecycleState, b: QMKJShanks.QMKJAdLifecycleState) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum QMKJNativeAdSize : Swift.String {
+  case qmkj_small
+  case qmkj_medium
+  case qmkj_large
+  case qmkj_fullscreen
+  case qmkj_fsread
+  case qmkj_custom
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.String)
+  #endif
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public actor QMKJAdClosureActor<T> {
+  public init(source: Swift.String, _ closure: @escaping (T) -> Swift.Void)
+  public func qmkj_call(with value: T, andFinish: Swift.Bool = false)
+  public func qmkj_finish()
+  public var isAvailable: Swift.Bool {
+    get
+  }
+  @objc deinit
+  @available(iOS 13.0, tvOS 13.0, watchOS 6.0, macOS 10.15, *)
+  @_semantics("defaultActor") nonisolated final public var unownedExecutor: _Concurrency.UnownedSerialExecutor {
+    get
+  }
+}
+public typealias QMKJAdCompletionActor = QMKJShanks.QMKJAdClosureActor<(QMKJShanks.QMKJAdLifecycleState, QMKJShanks.QMKJAdapterError?)>
+@_hasMissingDesignatedInitializers public class QMKJAdManager {
+  public static let shared: QMKJShanks.QMKJAdManager
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_loadAd(forPosition position: Swift.String, completion: @escaping (QMKJShanks.QMKJAdLifecycleState, QMKJShanks.QMKJAdapterError?) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_loadAd(forPosition position: Swift.String, timeout: Foundation.TimeInterval? = nil, completion: @escaping (QMKJShanks.QMKJAdLifecycleState, QMKJShanks.QMKJAdapterError?) -> Swift.Void)
+  #endif
+  @objc deinit
+}
+extension QMKJShanks.QMKJAdManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_isReady(forPosition position: Swift.String, withAdpv: Swift.Bool? = false) -> Swift.Bool
+  #endif
+}
+extension QMKJShanks.QMKJAdManager {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_showAd(forPosition positionName: Swift.String, needLoad: Swift.Bool = false, containView: UIKit.UIView? = nil, adSize: QMKJShanks.QMKJNativeAdSize = .qmkj_medium, completion: @escaping (QMKJShanks.QMKJAdLifecycleState, QMKJShanks.QMKJAdapterError?) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_showAd(forPosition positionName: Swift.String, needLoad: Swift.Bool = false, containView: UIKit.UIView? = nil, adSize: QMKJShanks.QMKJNativeAdSize = .qmkj_medium, timeout: Foundation.TimeInterval? = nil, completion: @escaping (QMKJShanks.QMKJAdLifecycleState, QMKJShanks.QMKJAdapterError?) -> Swift.Void)
+  #endif
+}
+@_hasMissingDesignatedInitializers public class QMKJAdNetworkInitializer {
+  public static func initializeAdNetworks(completion: @escaping (Swift.Bool, Swift.String) -> Swift.Void)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers final public class QMKJADTools {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func qmkj_getCurrentDate(_ formatter: Swift.String? = "yyyyMMdd") -> Swift.String
+  #endif
+  public static var qmkj_isNewDay: Swift.Bool {
+    get
+  }
+  public static var qmkj_isSecondDayFirstLaunch: Swift.Bool {
+    get
+  }
+  public static var qmkj_isSecondDayFirstHighEcpm: Swift.Bool {
+    get
+  }
+  public static var qmkj_isFirstTimeHighEcpmInter: Swift.Bool {
+    get
+  }
+  public static func qmkj_isOverTimeInterval(hours: Swift.Int) -> Swift.Bool
+  public static var currentDateString: Swift.String {
+    get
+  }
+  @objc deinit
+}
+extension QMKJShanks.QMKJADTools {
+  public static func qmkj_setRecentInterstitialTime()
+  public static func qmkj_isLimitTimeIntervalSinceRecentInterstitial(seconds: Swift.Int) -> Swift.Bool
+  public static var qmkj_adHasFirstLoad: Swift.Bool {
+    get
+  }
+  public static let networkFirmIDMap: [Swift.String : Swift.Int]
+  #if compiler(>=5.3) && $NonescapableTypes
+  public static func networkName(forFirmID firmID: Swift.Int) -> Swift.String?
+  #endif
+}
+extension QMKJShanks.QMKJADTrackingTool {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_adResponseEvents(params: QMKJShanks.QMKJADEventParams, errorCode: Swift.Int = 0, errorMessage: Swift.String? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_adResponseNormalEvents(params: QMKJShanks.QMKJADEventParams, errorCode: Swift.Int = 0, errorMessage: Swift.String? = nil, time: Swift.String?)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_adInventoryEvents(params: QMKJShanks.QMKJADEventParams, errorCode: Swift.Int = 0, errorMessage: Swift.String? = nil)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func qmkj_adImpressionEvents(params: QMKJShanks.QMKJADEventParams, errorCode: Swift.Int = 0, errorMessage: Swift.String? = nil)
+  #endif
+  public func qmkj_adClickEvents(params: QMKJShanks.QMKJADEventParams)
+  public func qmkj_adCloseEvents(params: QMKJShanks.QMKJADEventParams)
+  public func qmkj_adRewardEvents(params: QMKJShanks.QMKJADEventParams)
+  public func qmkj_adRevenueEvents(params: QMKJShanks.QMKJADEventParams)
+}
+@_hasMissingDesignatedInitializers public class QMKJADEventParamsBuilder {
+  @objc deinit
+}
+public struct QMKJADEventParams {
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(requestId: Swift.String? = nil, unitId: Swift.String, placementId: Swift.String, adType: Swift.String, mediationName: Swift.String, networkName: Swift.String? = nil, networkPlacementId: Swift.String? = nil, revenue: Swift.Double? = nil, timeout: Swift.Int = 0, fromUnitId: Swift.String? = nil, fromAdType: Swift.String? = nil, aaFlag: Swift.String? = nil, moduleId: Swift.String? = nil, impressionId: Swift.String? = nil)
+  #endif
+}
+public enum QMKJADTrackingType {
+  case rewardVideo
+  case interstitial
+  case native
+  case appOpen
+  case banner
+  case rewardedInterstitial
+  public static func == (a: QMKJShanks.QMKJADTrackingType, b: QMKJShanks.QMKJADTrackingType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public enum QMKJADTrackingEvent {
+  case load
+  case show
+  case click
+  case close
+  case reward
+  public static func == (a: QMKJShanks.QMKJADTrackingEvent, b: QMKJShanks.QMKJADTrackingEvent) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class QMKJADTrackingTool {
+  public static let shared: QMKJShanks.QMKJADTrackingTool
+  @objc deinit
+}
+extension QMKJShanks.QMKJADTrackingTool {
+  public func qmkj_secondDayOpen()
+  public func qmkj_sendABEvent(value: Swift.String)
+}
+@_hasMissingDesignatedInitializers public class QMKJPantherManager {
+  public static func qmkj_start()
+  @objc deinit
+}
+public class QMKJSafeArray<T> {
+  public init()
+  public func append(_ element: T)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func removeFirst() -> T?
+  #endif
+  public var all: [T] {
+    get
+  }
+  public var count: Swift.Int {
+    get
+  }
+  public var isEmpty: Swift.Bool {
+    get
+  }
+  #if compiler(>=5.3) && $NonescapableTypes
+  public var first: T? {
+    get
+  }
+  #endif
+  public func flatMap<ElementOfResult>(_ transform: @escaping (T) -> [ElementOfResult]) -> [ElementOfResult]
+  public func filter(_ isIncluded: @escaping (T) -> Swift.Bool) -> [T]
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func firstIndex(where predicate: @escaping (T) -> Swift.Bool) -> Swift.Int?
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
+  @discardableResult
+  public func remove(at index: Swift.Int) -> T?
+  #endif
+  @objc deinit
+}
+public class QMKJSafeDictionary<Key, Value> : Swift.Sequence where Key : Swift.Hashable {
+  public init()
+  public func setObject(_ object: Value, forKey key: Key)
+  #if compiler(>=5.3) && $NonescapableTypes
+  public func object(forKey key: Key) -> Value?
+  #endif
+  public func removeObject(forKey key: Key)
+  public var allKeys: [Key] {
+    get
+  }
+  public var allValues: [Value] {
+    get
+  }
+  public var values: [Value] {
+    get
+  }
+  public var count: Swift.Int {
+    get
+  }
+  public func removeAllObjects()
+  #if compiler(>=5.3) && $NonescapableTypes
+  public subscript(key: Key) -> Value? {
+    get
+    set
+  }
+  #endif
+  public func enumerateKeysAndObjects(_ block: (Key, Value, inout Swift.Bool) -> Swift.Void)
+  public func makeIterator() -> Swift.Dictionary<Key, Value>.Keys.Iterator
+  public typealias Element = Swift.Dictionary<Key, Value>.Keys.Iterator.Element
+  public typealias Iterator = Swift.Dictionary<Key, Value>.Keys.Iterator
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers final public class QMKJUserDefaults {
+  public static let shared: QMKJShanks.QMKJUserDefaults
+  public enum Keys {
+  }
+  final public func qmkj_getDouble(forKey key: Swift.String) -> Swift.Double
+  final public func qmkj_setDouble(_ value: Swift.Double, forKey key: Swift.String)
+  final public func qmkj_getInteger(forKey key: Swift.String) -> Swift.Int
+  final public func qmkj_setInteger(_ value: Swift.Int, forKey key: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
+  final public func qmkj_getString(forKey key: Swift.String) -> Swift.String?
+  #endif
+  final public func qmkj_setString(_ value: Swift.String, forKey key: Swift.String)
+  #if compiler(>=5.3) && $NonescapableTypes
+  final public func qmkj_getDate(forKey key: Swift.String) -> Foundation.Date?
+  #endif
+  final public func qmkj_setDate(_ date: Foundation.Date, forKey key: Swift.String)
+  final public func qmkj_synchronize()
+  @objc deinit
+}
+extension QMKJShanks.QMKJAdLifecycleState : Swift.Equatable {}
+extension QMKJShanks.QMKJAdLifecycleState : Swift.Hashable {}
+extension QMKJShanks.QMKJNativeAdSize : Swift.Equatable {}
+extension QMKJShanks.QMKJNativeAdSize : Swift.Hashable {}
+extension QMKJShanks.QMKJNativeAdSize : Swift.RawRepresentable {}
+extension QMKJShanks.QMKJADTrackingType : Swift.Equatable {}
+extension QMKJShanks.QMKJADTrackingType : Swift.Hashable {}
+extension QMKJShanks.QMKJADTrackingEvent : Swift.Equatable {}
+extension QMKJShanks.QMKJADTrackingEvent : Swift.Hashable {}
