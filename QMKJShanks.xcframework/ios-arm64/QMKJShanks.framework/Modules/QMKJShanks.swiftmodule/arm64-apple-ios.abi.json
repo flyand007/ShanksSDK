@@ -46,13 +46,6 @@
       },
       {
         "kind": "Import",
-        "name": "SnapKit",
-        "printedName": "SnapKit",
-        "declKind": "Import",
-        "moduleName": "QMKJShanks"
-      },
-      {
-        "kind": "Import",
         "name": "GoogleMobileAds",
         "printedName": "GoogleMobileAds",
         "declKind": "Import",
@@ -7321,826 +7314,826 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 197,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 239,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 748,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "StringLiteral",
       "offset": 898,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 939,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 1293,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 3342,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 3382,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 4848,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/CMP.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/CMP.swift",
       "kind": "BooleanLiteral",
       "offset": 4888,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 187,
       "length": 9,
       "value": "\"appopen\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 245,
       "length": 14,
       "value": "\"interstitial\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 304,
       "length": 16,
       "value": "\"rewarded_video\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 371,
       "length": 8,
       "value": "\"native\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 434,
       "length": 8,
       "value": "\"banner\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 498,
       "length": 9,
       "value": "\"unknown\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 1232,
       "length": 4,
       "value": "3009"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 1270,
       "length": 3,
       "value": "200"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1369,
       "length": 7,
       "value": "\"admob\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1422,
       "length": 5,
       "value": "\"max\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1477,
       "length": 7,
       "value": "\"topon\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1534,
       "length": 9,
       "value": "\"unknown\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 1686,
       "length": 4,
       "value": "2001"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1714,
       "length": 25,
       "value": "\"Adapter not initialized\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 1777,
       "length": 4,
       "value": "2002"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1805,
       "length": 15,
       "value": "\"Ad not loaded\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 1856,
       "length": 4,
       "value": "2003"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1884,
       "length": 22,
       "value": "\"Ad loading timed out\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 1947,
       "length": 4,
       "value": "2004"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 1975,
       "length": 15,
       "value": "\"Network error\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2039,
       "length": 4,
       "value": "2005"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2067,
       "length": 23,
       "value": "\"Invalid configuration\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2135,
       "length": 4,
       "value": "2006"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2163,
       "length": 20,
       "value": "\"Position not found\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2223,
       "length": 4,
       "value": "2007"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2251,
       "length": 38,
       "value": "\"No cached ad available for position.\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2334,
       "length": 4,
       "value": "2008"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2362,
       "length": 21,
       "value": "\"Cached ad not ready\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2425,
       "length": 4,
       "value": "2009"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2453,
       "length": 17,
       "value": "\"Mediation error\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2512,
       "length": 4,
       "value": "2010"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2540,
       "length": 17,
       "value": "\"Mediation error\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2599,
       "length": 4,
       "value": "2011"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2627,
       "length": 15,
       "value": "\"Switch is off\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2689,
       "length": 4,
       "value": "2012"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2717,
       "length": 21,
       "value": "\"Contain view is nil\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2792,
       "length": 4,
       "value": "2013"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2820,
       "length": 33,
       "value": "\"Type or mediation not supported\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2893,
       "length": 4,
       "value": "2014"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 2921,
       "length": 19,
       "value": "\"Ad load timed out\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "IntegerLiteral",
       "offset": 2976,
       "length": 4,
       "value": "2000"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 3004,
       "length": 23,
       "value": "\"Unknown adapter error\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 4809,
       "length": 7,
       "value": "\"small\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 4854,
       "length": 8,
       "value": "\"medium\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 4902,
       "length": 7,
       "value": "\"large\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 4951,
       "length": 12,
       "value": "\"fullscreen\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 4998,
       "length": 8,
       "value": "\"fsread\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterEnum.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 5041,
       "length": 8,
       "value": "\"custom\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterParameters.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterParameters.swift",
       "kind": "BooleanLiteral",
       "offset": 412,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterParameters.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterParameters.swift",
       "kind": "BooleanLiteral",
       "offset": 443,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterParameters.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterParameters.swift",
       "kind": "BooleanLiteral",
       "offset": 475,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdapterParameters.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdapterParameters.swift",
       "kind": "IntegerLiteral",
       "offset": 519,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdBidding.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdBidding.swift",
       "kind": "Array",
       "offset": 3496,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJAdClosureActor.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJAdClosureActor.swift",
       "kind": "BooleanLiteral",
       "offset": 289,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJAdClosureActor.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJAdClosureActor.swift",
       "kind": "BooleanLiteral",
       "offset": 581,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdManager.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
       "offset": 11285,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdManager.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
       "offset": 14185,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdManager.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
       "offset": 14573,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdManager.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
       "offset": 16338,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJAdManager.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
       "offset": 20925,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJADTools.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJADTools.swift",
       "kind": "StringLiteral",
       "offset": 437,
       "length": 10,
       "value": "\"yyyyMMdd\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJADTools.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJADTools.swift",
       "kind": "Dictionary",
       "offset": 6536,
       "length": 792,
       "value": "[(\"Facebook\", 1), (\"Admob\", 2), (\"Inmobi\", 3), (\"Applovin\", 5), (\"Mintegral\", 6), (\"腾讯广告\", 8), (\"Chartboost\", 9), (\"Tapjoy\", 10), (\"Ironsource\", 11), (\"UnityAds\", 12), (\"Vungle\", 13), (\"Adcolony\", 14), (\"穿山甲（CSJ）\", 15), (\"Baidu\", 22), (\"Nend\", 23), (\"Maio\", 24), (\"StartApp\", 25), (\"快手\", 28), (\"Sigmob\", 29), (\"MyTarget\", 32), (\"Yandex\", 34), (\"交叉推广（MyOffer）\", 35), (\"Ogury\", 36), (\"Fyber\", 37), (\"Helium\", 40), (\"Kidoz\", 45), (\"A4G\", 48), (\"Pangle\", 50), (\"游可赢（Klevin）\", 51), (\"PubNative\", 58), (\"Bigo\", 59), (\"TopOn ADX\", 66), (\"京媒\", 72)]"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTracking+Process.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
       "offset": 660,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTracking+Process.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
       "offset": 1298,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTracking+Process.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
       "offset": 1910,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTracking+Process.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
       "offset": 2460,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTracking+Process.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "Dictionary",
       "offset": 5143,
       "length": 3,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingModels.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingModels.swift",
       "kind": "IntegerLiteral",
       "offset": 1338,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 173,
       "length": 22,
       "value": "\"sk_ad_initialization\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 228,
       "length": 15,
       "value": "\"sk_ad_request\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 276,
       "length": 16,
       "value": "\"sk_ad_response\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 325,
       "length": 17,
       "value": "\"sk_ad_inventory\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 375,
       "length": 18,
       "value": "\"sk_ad_impression\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 426,
       "length": 13,
       "value": "\"sk_ad_click\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 472,
       "length": 14,
       "value": "\"sk_ad_reward\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 519,
       "length": 13,
       "value": "\"sk_ad_close\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 565,
       "length": 15,
       "value": "\"sk_ad_revenue\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 640,
       "length": 9,
       "value": "\"ad_uuid\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 676,
       "length": 13,
       "value": "\"ad_position\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 716,
       "length": 17,
       "value": "\"ad_placement_id\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 760,
       "length": 9,
       "value": "\"ad_type\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 796,
       "length": 16,
       "value": "\"ad_result_code\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 839,
       "length": 14,
       "value": "\"ad_mediation\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 880,
       "length": 12,
       "value": "\"ad_message\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 919,
       "length": 9,
       "value": "\"ad_time\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 955,
       "length": 11,
       "value": "\"ad_source\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 993,
       "length": 14,
       "value": "\"ad_source_id\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 1034,
       "length": 10,
       "value": "\"ad_price\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 1071,
       "length": 13,
       "value": "\"ad_currency\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 1111,
       "length": 15,
       "value": "\"ad_adapter_id\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
       "offset": 1153,
       "length": 14,
       "value": "\"ad_from_type\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJLogger.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJLogger.swift",
       "kind": "StringLiteral",
       "offset": 77,
       "length": 7,
       "value": "\"DEBUG\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJLogger.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJLogger.swift",
       "kind": "StringLiteral",
       "offset": 101,
       "length": 6,
       "value": "\"INFO\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJLogger.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJLogger.swift",
       "kind": "StringLiteral",
       "offset": 124,
       "length": 6,
       "value": "\"WARN\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJLogger.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJLogger.swift",
       "kind": "StringLiteral",
       "offset": 148,
       "length": 7,
       "value": "\"ERROR\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJNativeFullscreenController.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJNativeFullscreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 447,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/QMKJNativeFullscreenController.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/QMKJNativeFullscreenController.swift",
       "kind": "IntegerLiteral",
       "offset": 453,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJSafeArray.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJSafeArray.swift",
       "kind": "Array",
       "offset": 80,
       "length": 2,
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJSafeArray.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJSafeArray.swift",
       "kind": "StringLiteral",
       "offset": 128,
       "length": 27,
       "value": "\"com.yourapp.QMKJSafeArray\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 424,
       "length": 12,
       "value": "\"revenueAll\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 472,
       "length": 15,
       "value": "\"firstOpenDate\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 524,
       "length": 16,
       "value": "\"secondOpenDate\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 576,
       "length": 15,
       "value": "\"LastCheckDate\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 636,
       "length": 24,
       "value": "\"SecondDayFirstHighEcpm\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 705,
       "length": 24,
       "value": "\"FirstTimeHighEcpmInter\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 766,
       "length": 16,
       "value": "\"adHasFirstLoad\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 827,
       "length": 24,
       "value": "\"RecentInterstitialTime\""
     },
     {
-      "filePath": "\/Users\/lijian\/Desktop\/shanks_副本\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "filePath": "\/Users\/apus\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
       "kind": "StringLiteral",
       "offset": 904,
       "length": 32,
