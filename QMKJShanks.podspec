@@ -1,13 +1,4 @@
-#
-# Be sure to run `pod lib lint Panther.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
-  s.platform = :ios, '13.0'
   s.name             = 'QMKJShanks'
   s.version          = '1.1.2'
   s.summary          = 'ShanksLib binary distribution'
@@ -17,13 +8,46 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/flyand007/ShanksSDK/'
   s.license          = { :type => 'Commercial', :text => 'Proprietary software' }
   s.author           = { 'Your Name' => 'your@email.com' }
-  # 二进制文件下载地址
-  s.source           = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.2/QMKJShanks.xcframework.zip'
-  }
-
+  s.platform         = :ios, '13.0'
   s.ios.deployment_target = '13.0'
 
-  # 告诉 CocoaPods 引入 vendored framework
+  # ① 指向包含 .xcframework 和 .bundle 的 zip（根目录）
+  s.source = {
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.2/QMKJShanks_1.1.2.zip'
+  }
+
+  # ② 声明二进制框架
   s.vendored_frameworks = 'QMKJShanks.xcframework'
+
+  # ③ 声明资源 bundle（CocoaPods 会把它拷贝进宿主 App）
+  s.resources = 'QMKJShanksResources.bundle'
+  # 若资源在子目录，可用通配：'**/QMKJShanksResources.bundle'
+
+  # 你的依赖（保持不变）
+  s.dependency 'Google-Mobile-Ads-SDK',' ~> 12.1.0'
+  s.dependency 'FirebaseRemoteConfig'
+  s.dependency 'SVProgressHUD'
+  s.dependency 'SensorsAnalyticsSDK'
+  s.dependency 'SnapKit'
+  s.dependency 'FBSDKCoreKit'
+  s.dependency 'AppsFlyer-AdRevenue'
+  s.dependency 'GoogleUserMessagingPlatform','~> 3.0.0'
+  s.dependency 'Masonry'
+  s.dependency 'com_huntmobi_web2app'
+  s.dependency 'GoogleMobileAdsMediationFacebook', '~> 6.17.1.0'
+  s.dependency 'GoogleMobileAdsMediationAppLovin', '~> 13.1.0.0'
+  s.dependency 'GoogleMobileAdsMediationVungle', '~> 7.4.5.0'
+  s.dependency 'GoogleMobileAdsMediationUnity', '~> 4.14.0.0'
+  s.dependency 'bigo-ads-admob-adapter','~> 4.6.0.0'
+  s.dependency 'GoogleMobileAdsMediationPangle', '~> 7.4.1.0.0'
+  s.dependency 'GoogleMobileAdsMediationMintegral', '~> 7.7.7.0'
+  s.dependency 'GoogleMobileAdsMediationIronSource', '~>8.8.0.0.0'
+  s.dependency 'AppLovinMediationGoogleAdapter','~> 12.1.0'
+  s.dependency 'AppLovinMediationMintegralAdapter','~> 7.7.7.0.0'
+  s.dependency 'AppLovinMediationUnityAdsAdapter', '~> 4.14.0.0'
+  s.dependency 'AppLovinMediationVungleAdapter', '~> 7.4.5.0'
+  s.dependency 'AppLovinMediationFacebookAdapter', '~> 6.17.1.0'
+  s.dependency 'AppLovinMediationBigoAdsAdapter', '~> 4.6.0.0'
+  s.dependency 'AppLovinMediationFyberAdapter', '~> 8.3.5.1'
+  s.dependency 'AppLovinMediationIronSourceAdapter', '~> 8.8.0.0.0'
 end
