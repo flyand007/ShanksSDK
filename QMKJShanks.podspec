@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # ① 指向包含 .xcframework 和 .bundle 的 zip（根目录）
   s.source = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.2/QMKJShanks_1.1.2.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.1.4/QMKJShanks_Package.zip'
   }
 
   # ② 声明二进制框架
