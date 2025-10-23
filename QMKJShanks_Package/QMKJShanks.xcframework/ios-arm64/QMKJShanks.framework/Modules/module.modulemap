@@ -1,0 +1,11 @@
+framework module QMKJShanks {
+  umbrella header "QMKJShanks-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module QMKJShanks.Swift {
+  header "QMKJShanks-Swift.h"
+  requires objc
+}
