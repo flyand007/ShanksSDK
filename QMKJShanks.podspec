@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QMKJShanks'
-  s.version          = '1.1.8'
+  s.version          = '1.1.9'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
     ShanksLib 是一个闭源 Framework，提供 XXX 功能。
