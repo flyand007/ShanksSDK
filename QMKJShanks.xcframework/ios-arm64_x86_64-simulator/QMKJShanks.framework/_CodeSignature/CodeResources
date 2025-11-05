@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/QMKJShanks-Swift.h</key>
 		<data>
-		gz6bn6WcRVQRsI+EZbn8/Yzvco4=
+		hUnvC7F44p7RJRoL07SzhHknpFo=
 		</data>
 		<key>Headers/QMKJShanks-umbrella.h</key>
 		<data>
@@ -30,27 +30,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		+j0tYSe++mQ9IGacuPBgekIAQ2g=
+		zqgbIv3lcAG2KvdHYUFooggXmu4=
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		0boBWiww2AzqhDNCUDL+Ue4Q/Yw=
+		I2Qo4Z5aW1aqbmfUOvkEz/Ok9zw=
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7vJCVULzoZBjtVQXhWGsFpy87oU=
+		SbYgHbYUtEm1kICuZ6Eq7uxS+iE=
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ed90Trxrx+SR8ptTPJBYP0IbfI8=
+		zdIMWXqVYlMz1KkG8kWUkZ0ePvU=
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7vJCVULzoZBjtVQXhWGsFpy87oU=
+		SbYgHbYUtEm1kICuZ6Eq7uxS+iE=
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZBV7E+OCom5A89NLax1JKC+fYFA=
+		Bxluz3ashMA+T/H6G+3kuV164sE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sa1v1U7PRhElv2lUiL6ptzf8zFmkm6xC4c9QR2iJV4c=
+			M2MFZ/A/EmW6tfIud76V+J6R/DfrMlNzYC8Ibz61YZE=
 			</data>
 		</dict>
 		<key>Headers/QMKJShanks-umbrella.h</key>
@@ -105,35 +105,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8TISggfj2t+PYiLlh20CdEnAwvAfQjiZBt9mNQAkbq0=
+			8SdwjMVQLXhRIaBon6pB14OuQb+RV09V4g97ljxNR08=
 			</data>
 		</dict>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u2A7evdEPCEQV3g6uSc3uJm+A50y5D/Dt300PiJL3dA=
+			FYYqIBgNAaTBoj2zLzDTl1ASrSEsldHj0c+uNZydl/M=
 			</data>
 		</dict>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bbe/TEGNu4KdaPowj7VPGBKXFZdCRrVT6cmx85I1PFc=
+			KsU7E+C5qMQT4n3Tq/9SmSmwTDFbejREtT4LlijhHqA=
 			</data>
 		</dict>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u2A7evdEPCEQV3g6uSc3uJm+A50y5D/Dt300PiJL3dA=
+			FYYqIBgNAaTBoj2zLzDTl1ASrSEsldHj0c+uNZydl/M=
 			</data>
 		</dict>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IE6uazf1bYGu/PZ4h1LtJG+OgdmpHzl50UJd6aB9ElM=
+			Cq1bC/Au9nnLPpy94nbfHrySikJIoopoJA2r/nGFSxs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

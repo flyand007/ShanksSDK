@@ -4191,8 +4191,8 @@
       },
       {
         "kind": "Import",
-        "name": "com_huntmobi_web2app",
-        "printedName": "com_huntmobi_web2app",
+        "name": "SolarEngineSDK",
+        "printedName": "SolarEngineSDK",
         "declKind": "Import",
         "moduleName": "QMKJShanks"
       },

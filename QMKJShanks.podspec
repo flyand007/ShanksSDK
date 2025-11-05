@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QMKJShanks'
-  s.version          = '1.2.0'
+  s.version          = '1.2.1'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
     ShanksLib 是一个闭源 Framework，提供 XXX 功能。
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # ① 指向包含 .xcframework 和 .bundle 的 zip（根目录）
   s.source = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.2.0/QMKJShanks_Package.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.2.1/QMKJShanks_Package.zip'
   }
 
   # ② 声明二进制框架
@@ -39,7 +39,7 @@ Pod::Spec.new do |s|
   s.dependency 'FBSDKCoreKit'
   s.dependency 'AppsFlyer-AdRevenue'
   s.dependency 'GoogleUserMessagingPlatform','~> 3.0.0'
-  s.dependency 'com_huntmobi_web2app'
+  s.dependency 'SolarEngineSDKiOSInter'
   s.dependency 'GoogleMobileAdsMediationFacebook', '~> 6.17.1.0'
   s.dependency 'GoogleMobileAdsMediationAppLovin', '~> 13.1.0.0'
   s.dependency 'GoogleMobileAdsMediationVungle', '~> 7.4.5.0'
