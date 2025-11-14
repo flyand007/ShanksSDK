@@ -4198,6 +4198,13 @@
       },
       {
         "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
         "name": "SensorsAnalyticsSDK",
         "printedName": "SensorsAnalyticsSDK",
         "declKind": "Import",
