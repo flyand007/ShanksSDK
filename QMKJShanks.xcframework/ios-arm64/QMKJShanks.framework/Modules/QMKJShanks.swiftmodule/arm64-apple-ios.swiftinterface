@@ -201,7 +201,7 @@ extension QMKJShanks.QMKJADTrackingTool {
 }
 public struct QMKJADEventParams {
   #if compiler(>=5.3) && $NonescapableTypes
-  public init(requestId: Swift.String? = nil, unitId: Swift.String, placementId: Swift.String, adType: Swift.String, mediationName: Swift.String, networkName: Swift.String? = nil, networkPlacementId: Swift.String? = nil, revenue: Swift.Double? = nil, timeout: Swift.Int = 0, fromUnitId: Swift.String? = nil, fromAdType: Swift.String? = nil, aaFlag: Swift.String? = nil, moduleId: Swift.String? = nil, impressionId: Swift.String? = nil)
+  public init(requestId: Swift.String? = nil, unitId: Swift.String, placementId: Swift.String, adType: Swift.String, mediationName: Swift.String, networkName: Swift.String? = nil, networkPlacementId: Swift.String? = nil, revenue: Swift.Double? = nil, timeout: Swift.Int = 0, fromUnitId: Swift.String? = nil, fromAdType: Swift.String? = nil, aaFlag: Swift.String? = nil, moduleId: Swift.String? = nil, adNetworkUnitName: Swift.String? = nil, impressionId: Swift.String? = nil)
   #endif
 }
 public enum QMKJADTrackingType {

@@ -4261,7 +4261,7 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(requestId:unitId:placementId:adType:mediationName:networkName:networkPlacementId:revenue:timeout:fromUnitId:fromAdType:aaFlag:moduleId:impressionId:)",
+            "printedName": "init(requestId:unitId:placementId:adType:mediationName:networkName:networkPlacementId:revenue:timeout:fromUnitId:fromAdType:aaFlag:moduleId:adNetworkUnitName:impressionId:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4434,11 +4434,26 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:10QMKJShanks17QMKJADEventParamsV9requestId04unitE009placementE06adType13mediationName07networkK00l9PlacementE07revenue7timeout08fromUnitE00p2AdI06aaFlag06moduleE0010impressionE0ACSSSg_S4SA2RSdSgSiA5Rtcfc",
-            "mangledName": "$s10QMKJShanks17QMKJADEventParamsV9requestId04unitE009placementE06adType13mediationName07networkK00l9PlacementE07revenue7timeout08fromUnitE00p2AdI06aaFlag06moduleE0010impressionE0ACSSSg_S4SA2RSdSgSiA5Rtcfc",
+            "usr": "s:10QMKJShanks17QMKJADEventParamsV9requestId04unitE009placementE06adType13mediationName07networkK00l9PlacementE07revenue7timeout08fromUnitE00p2AdI06aaFlag06moduleE00h7NetworkqK0010impressionE0ACSSSg_S4SA2SSdSgSiA6Stcfc",
+            "mangledName": "$s10QMKJShanks17QMKJADEventParamsV9requestId04unitE009placementE06adType13mediationName07networkK00l9PlacementE07revenue7timeout08fromUnitE00p2AdI06aaFlag06moduleE00h7NetworkqK0010impressionE0ACSSSg_S4SA2SSdSgSiA6Stcfc",
             "moduleName": "QMKJShanks",
             "declAttributes": [
               "AccessControl",
@@ -7778,35 +7793,35 @@
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11285,
+      "offset": 11329,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14185,
+      "offset": 14229,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14573,
+      "offset": 14617,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16338,
+      "offset": 16382,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 20925,
+      "offset": 20969,
       "length": 5,
       "value": "false"
     },
@@ -7862,7 +7877,7 @@
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingModels.swift",
       "kind": "IntegerLiteral",
-      "offset": 1338,
+      "offset": 1379,
       "length": 1,
       "value": "0"
     },
@@ -8026,6 +8041,13 @@
       "offset": 1153,
       "length": 14,
       "value": "\"ad_from_type\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
+      "kind": "StringLiteral",
+      "offset": 1194,
+      "length": 14,
+      "value": "\"ad_unit_name\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJLogger.swift",
