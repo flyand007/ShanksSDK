@@ -14,6 +14,7 @@
 #import "GADPMediumTemplateView.h"
 #import "GADPSmallTemplateView.h"
 #import "GADPTemplateView.h"
+#import "GADReadCustomTemplateView.h"
 
 FOUNDATION_EXPORT double QMKJShanksVersionNumber;
 FOUNDATION_EXPORT const unsigned char QMKJShanksVersionString[];

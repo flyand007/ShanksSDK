@@ -17,5 +17,6 @@
 #import "GADPTemplateView.h"
 
 @interface GADPFullScreenTemplateView : GADPTemplateView
+@property (weak, nonatomic) IBOutlet UIView *bottomBackView;
 
 @end
