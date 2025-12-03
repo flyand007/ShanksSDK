@@ -6,6 +6,7 @@ import AdjustSdk
 import AppLovinSDK
 import AppTrackingTransparency
 import BigoADS
+import CommonCrypto
 import FirebaseRemoteConfig
 import Foundation
 import GoogleMobileAds

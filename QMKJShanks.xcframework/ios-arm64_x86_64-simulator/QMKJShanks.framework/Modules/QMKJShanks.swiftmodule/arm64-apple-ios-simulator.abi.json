@@ -4477,6 +4477,20 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "AdjustSdk",
+        "printedName": "AdjustSdk",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
         "kind": "TypeDecl",
         "name": "QMKJADTrackingType",
         "printedName": "QMKJADTrackingType",
@@ -7863,168 +7877,168 @@
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 173,
+      "offset": 209,
       "length": 22,
       "value": "\"sk_ad_initialization\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 228,
+      "offset": 264,
       "length": 15,
       "value": "\"sk_ad_request\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 276,
+      "offset": 312,
       "length": 16,
       "value": "\"sk_ad_response\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 325,
+      "offset": 361,
       "length": 17,
       "value": "\"sk_ad_inventory\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 375,
+      "offset": 411,
       "length": 18,
       "value": "\"sk_ad_impression\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 426,
+      "offset": 462,
       "length": 13,
       "value": "\"sk_ad_click\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 472,
+      "offset": 508,
       "length": 14,
       "value": "\"sk_ad_reward\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 519,
+      "offset": 555,
       "length": 13,
       "value": "\"sk_ad_close\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 565,
+      "offset": 601,
       "length": 15,
       "value": "\"sk_ad_revenue\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 640,
+      "offset": 676,
       "length": 9,
       "value": "\"ad_uuid\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 676,
+      "offset": 712,
       "length": 13,
       "value": "\"ad_position\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 716,
+      "offset": 752,
       "length": 17,
       "value": "\"ad_placement_id\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 760,
+      "offset": 796,
       "length": 9,
       "value": "\"ad_type\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 796,
+      "offset": 832,
       "length": 16,
       "value": "\"ad_result_code\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 839,
+      "offset": 875,
       "length": 14,
       "value": "\"ad_mediation\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 880,
+      "offset": 916,
       "length": 12,
       "value": "\"ad_message\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 919,
+      "offset": 955,
       "length": 9,
       "value": "\"ad_time\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 955,
+      "offset": 991,
       "length": 11,
       "value": "\"ad_source\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 993,
+      "offset": 1029,
       "length": 14,
       "value": "\"ad_source_id\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 1034,
+      "offset": 1070,
       "length": 10,
       "value": "\"ad_price\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 1071,
+      "offset": 1107,
       "length": 13,
       "value": "\"ad_currency\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 1111,
+      "offset": 1147,
       "length": 15,
       "value": "\"ad_adapter_id\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 1153,
+      "offset": 1189,
       "length": 14,
       "value": "\"ad_from_type\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTrackingTool.swift",
       "kind": "StringLiteral",
-      "offset": 1194,
+      "offset": 1230,
       "length": 14,
       "value": "\"ad_unit_name\""
     },
