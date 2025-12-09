@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QMKJShanks'
-  s.version          = '1.2.7'
+  s.version          = '1.2.8'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
     ShanksLib 是一个闭源 Framework，提供 XXX 功能。
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # ① 指向包含 .xcframework 和 .bundle 的 zip（根目录）
   s.source = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.2.7/QMKJShanks_Package.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.2.8/QMKJShanks_Package.zip'
   }
 
   # ② 声明二进制框架
