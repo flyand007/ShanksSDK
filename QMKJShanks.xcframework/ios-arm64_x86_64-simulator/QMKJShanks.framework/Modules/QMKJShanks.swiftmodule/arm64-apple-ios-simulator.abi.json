@@ -702,6 +702,23 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AppLovinSDK",
+        "printedName": "AppLovinSDK",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -5701,6 +5718,30 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration",
+        "printedName": "SystemConfiguration",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "QMKJPantherManager",
         "printedName": "QMKJPantherManager",
@@ -7765,7 +7806,7 @@
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdBidding.swift",
       "kind": "Array",
-      "offset": 3496,
+      "offset": 3585,
       "length": 2,
       "value": "[]"
     },
@@ -8083,6 +8124,13 @@
       "offset": 453,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJNetworkManager.swift",
+      "kind": "StringLiteral",
+      "offset": 307,
+      "length": 21,
+      "value": "\"NetworkMonitorQueue\""
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tools\/QMKJSafeArray.swift",

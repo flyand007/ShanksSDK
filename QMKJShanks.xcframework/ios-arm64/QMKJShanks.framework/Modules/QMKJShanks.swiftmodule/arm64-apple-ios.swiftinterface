@@ -15,6 +15,7 @@ import OSLog
 @_exported import QMKJShanks
 import SensorsAnalyticsSDK
 import Swift
+import SystemConfiguration
 import UIKit
 import UserMessagingPlatform
 import _Concurrency
