@@ -5743,6 +5743,293 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "QMKJUserSource",
+        "printedName": "QMKJUserSource",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "mintegral",
+            "printedName": "mintegral",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJUserSource.Type) -> QMKJShanks.QMKJUserSource",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJUserSource",
+                    "printedName": "QMKJShanks.QMKJUserSource",
+                    "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJUserSource.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJUserSource",
+                        "printedName": "QMKJShanks.QMKJUserSource",
+                        "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks14QMKJUserSourceO9mintegralyA2CmF",
+            "mangledName": "$s10QMKJShanks14QMKJUserSourceO9mintegralyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "applovin",
+            "printedName": "applovin",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJUserSource.Type) -> QMKJShanks.QMKJUserSource",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJUserSource",
+                    "printedName": "QMKJShanks.QMKJUserSource",
+                    "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJUserSource.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJUserSource",
+                        "printedName": "QMKJShanks.QMKJUserSource",
+                        "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks14QMKJUserSourceO8applovinyA2CmF",
+            "mangledName": "$s10QMKJShanks14QMKJUserSourceO8applovinyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "meta",
+            "printedName": "meta",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJUserSource.Type) -> QMKJShanks.QMKJUserSource",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJUserSource",
+                    "printedName": "QMKJShanks.QMKJUserSource",
+                    "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJUserSource.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJUserSource",
+                        "printedName": "QMKJShanks.QMKJUserSource",
+                        "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks14QMKJUserSourceO4metayA2CmF",
+            "mangledName": "$s10QMKJShanks14QMKJUserSourceO4metayA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "other",
+            "printedName": "other",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJUserSource.Type) -> QMKJShanks.QMKJUserSource",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJUserSource",
+                    "printedName": "QMKJShanks.QMKJUserSource",
+                    "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJUserSource.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJUserSource",
+                        "printedName": "QMKJShanks.QMKJUserSource",
+                        "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks14QMKJUserSourceO5otheryA2CmF",
+            "mangledName": "$s10QMKJShanks14QMKJUserSourceO5otheryA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "QMKJShanks.QMKJUserSource?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJUserSource",
+                    "printedName": "QMKJShanks.QMKJUserSource",
+                    "usr": "s:10QMKJShanks14QMKJUserSourceO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10QMKJShanks14QMKJUserSourceO8rawValueACSgSS_tcfc",
+            "mangledName": "$s10QMKJShanks14QMKJUserSourceO8rawValueACSgSS_tcfc",
+            "moduleName": "QMKJShanks",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10QMKJShanks14QMKJUserSourceO8rawValueSSvp",
+            "mangledName": "$s10QMKJShanks14QMKJUserSourceO8rawValueSSvp",
+            "moduleName": "QMKJShanks",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10QMKJShanks14QMKJUserSourceO8rawValueSSvg",
+                "mangledName": "$s10QMKJShanks14QMKJUserSourceO8rawValueSSvg",
+                "moduleName": "QMKJShanks",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10QMKJShanks14QMKJUserSourceO",
+        "mangledName": "$s10QMKJShanks14QMKJUserSourceO",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "QMKJPantherManager",
         "printedName": "QMKJPantherManager",
         "children": [
@@ -5766,6 +6053,85 @@
               "Final",
               "AccessControl",
               "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setUserSource",
+            "printedName": "qmkj_setUserSource(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "QMKJUserSource",
+                "printedName": "QMKJShanks.QMKJUserSource",
+                "usr": "s:10QMKJShanks14QMKJUserSourceO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks18QMKJPantherManagerC18qmkj_setUserSourceyyAA08QMKJUserG0OFZ",
+            "mangledName": "$s10QMKJShanks18QMKJPantherManagerC18qmkj_setUserSourceyyAA08QMKJUserG0OFZ",
+            "moduleName": "QMKJShanks",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setUserSource",
+            "printedName": "qmkj_setUserSource(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks18QMKJPantherManagerC18qmkj_setUserSourceyySSFZ",
+            "mangledName": "$s10QMKJShanks18QMKJPantherManagerC18qmkj_setUserSourceyySSFZ",
+            "moduleName": "QMKJShanks",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_getUserSource",
+            "printedName": "qmkj_getUserSource()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "QMKJUserSource",
+                "printedName": "QMKJShanks.QMKJUserSource",
+                "usr": "s:10QMKJShanks14QMKJUserSourceO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks18QMKJPantherManagerC18qmkj_getUserSourceAA08QMKJUserG0OyFZ",
+            "mangledName": "$s10QMKJShanks18QMKJPantherManagerC18qmkj_getUserSourceAA08QMKJUserG0OyFZ",
+            "moduleName": "QMKJShanks",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
           }
@@ -8208,6 +8574,13 @@
       "offset": 904,
       "length": 32,
       "value": "\"newuser_adpv_after_load_switch\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tools\/QMKJUserDefaults.swift",
+      "kind": "StringLiteral",
+      "offset": 969,
+      "length": 18,
+      "value": "\"qmkj_user_source\""
     }
   ]
 }
