@@ -203,38 +203,10 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
           },
           {
             "kind": "Conformance",
@@ -245,10 +217,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -259,10 +245,24 @@
           },
           {
             "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
           }
         ]
       },
@@ -649,6 +649,395 @@
             "mangledName": "$ss9EscapableP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "ObjectiveC.runtime",
+        "printedName": "ObjectiveC.runtime",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "FirebaseRemoteConfig",
+        "printedName": "FirebaseRemoteConfig",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "QMKJTouchControl",
+        "printedName": "QMKJTouchControl",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "isCanTouch",
+            "printedName": "isCanTouch()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@QMKJShanks@objc(pl)QMKJTouchControl(im)isCanTouch",
+            "mangledName": "$s10QMKJShanks16QMKJTouchControlP10isCanTouchSbyF",
+            "moduleName": "QMKJShanks",
+            "genericSig": "<τ_0_0 where τ_0_0 : QMKJShanks.QMKJTouchControl>",
+            "sugared_genericSig": "<Self where Self : QMKJShanks.QMKJTouchControl>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "isTapGesture",
+            "printedName": "isTapGesture()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@QMKJShanks@objc(pl)QMKJTouchControl(im)isTapGesture",
+            "mangledName": "$s10QMKJShanks16QMKJTouchControlP12isTapGestureSbyF",
+            "moduleName": "QMKJShanks",
+            "genericSig": "<τ_0_0 where τ_0_0 : QMKJShanks.QMKJTouchControl>",
+            "sugared_genericSig": "<Self where Self : QMKJShanks.QMKJTouchControl>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "invokeTapClick",
+            "printedName": "invokeTapClick(sender:point:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "ProtocolComposition",
+                "printedName": "AnyObject"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@QMKJShanks@objc(pl)QMKJTouchControl(im)invokeTapClickWithSender:point:",
+            "mangledName": "$s10QMKJShanks16QMKJTouchControlP14invokeTapClick6sender5pointyyXl_So7CGPointVtF",
+            "moduleName": "QMKJShanks",
+            "genericSig": "<τ_0_0 where τ_0_0 : QMKJShanks.QMKJTouchControl>",
+            "sugared_genericSig": "<Self where Self : QMKJShanks.QMKJTouchControl>",
+            "protocolReq": true,
+            "objc_name": "invokeTapClickWithSender:point:",
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "getTouchScene",
+            "printedName": "getTouchScene()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@QMKJShanks@objc(pl)QMKJTouchControl(im)getTouchScene",
+            "mangledName": "$s10QMKJShanks16QMKJTouchControlP13getTouchSceneSSyF",
+            "moduleName": "QMKJShanks",
+            "genericSig": "<τ_0_0 where τ_0_0 : QMKJShanks.QMKJTouchControl>",
+            "sugared_genericSig": "<Self where Self : QMKJShanks.QMKJTouchControl>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Optional",
+              "ObjC",
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "c:@M@QMKJShanks@objc(pl)QMKJTouchControl",
+        "mangledName": "$s10QMKJShanks16QMKJTouchControlP",
+        "moduleName": "QMKJShanks",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "ObjC"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SensorsAnalyticsSDK",
+        "printedName": "SensorsAnalyticsSDK",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
+        "name": "WebKit",
+        "printedName": "WebKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
       },
       {
         "kind": "Import",
@@ -1770,13 +2159,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Error",
             "printedName": "Error",
             "usr": "s:s5ErrorP",
@@ -1788,6 +2170,13 @@
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -2322,17 +2711,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -2677,17 +3066,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -3026,6 +3415,513 @@
         ]
       },
       {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "QMKJTouchAdStartType",
+        "printedName": "QMKJTouchAdStartType",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "active",
+            "printedName": "active",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJTouchAdStartType.Type) -> QMKJShanks.QMKJTouchAdStartType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdStartType",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                    "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJTouchAdStartType",
+                        "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                        "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO6activeyA2CmF",
+            "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO6activeyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "unactive",
+            "printedName": "unactive",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJTouchAdStartType.Type) -> QMKJShanks.QMKJTouchAdStartType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdStartType",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                    "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJTouchAdStartType",
+                        "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                        "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO8unactiveyA2CmF",
+            "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO8unactiveyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "restart",
+            "printedName": "restart",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJTouchAdStartType.Type) -> QMKJShanks.QMKJTouchAdStartType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdStartType",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                    "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJTouchAdStartType",
+                        "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                        "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO7restartyA2CmF",
+            "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO7restartyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "QMKJShanks.QMKJTouchAdStartType?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdStartType",
+                    "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                    "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO8rawValueACSgSi_tcfc",
+            "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO8rawValueACSgSi_tcfc",
+            "moduleName": "QMKJShanks",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO8rawValueSivp",
+            "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO8rawValueSivp",
+            "moduleName": "QMKJShanks",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO8rawValueSivg",
+                "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO8rawValueSivg",
+                "moduleName": "QMKJShanks",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO",
+        "mangledName": "$s10QMKJShanks20QMKJTouchAdStartTypeO",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "QMKJTouchAdLogMode",
+        "printedName": "QMKJTouchAdLogMode",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "off",
+            "printedName": "off",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJTouchAdLogMode.Type) -> QMKJShanks.QMKJTouchAdLogMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdLogMode",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                    "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJTouchAdLogMode",
+                        "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                        "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO3offyA2CmF",
+            "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO3offyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "key",
+            "printedName": "key",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJTouchAdLogMode.Type) -> QMKJShanks.QMKJTouchAdLogMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdLogMode",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                    "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJTouchAdLogMode",
+                        "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                        "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO3keyyA2CmF",
+            "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO3keyyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Var",
+            "name": "all",
+            "printedName": "all",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(QMKJShanks.QMKJTouchAdLogMode.Type) -> QMKJShanks.QMKJTouchAdLogMode",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdLogMode",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                    "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "QMKJTouchAdLogMode",
+                        "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                        "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO3allyA2CmF",
+            "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO3allyA2CmF",
+            "moduleName": "QMKJShanks"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "QMKJShanks.QMKJTouchAdLogMode?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "QMKJTouchAdLogMode",
+                    "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                    "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO8rawValueACSgSi_tcfc",
+            "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO8rawValueACSgSi_tcfc",
+            "moduleName": "QMKJShanks",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO8rawValueSivp",
+            "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO8rawValueSivp",
+            "moduleName": "QMKJShanks",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO8rawValueSivg",
+                "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO8rawValueSivg",
+                "moduleName": "QMKJShanks",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO",
+        "mangledName": "$s10QMKJShanks18QMKJTouchAdLogModeO",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
         "kind": "TypeDecl",
         "name": "QMKJAdManager",
         "printedName": "QMKJAdManager",
@@ -3226,6 +4122,517 @@
             "declAttributes": [
               "AccessControl"
             ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setTouchAdReportHandler",
+            "printedName": "qmkj_setTouchAdReportHandler(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Swift.String, Swift.String?, Swift.String?, Swift.String?, Swift.String?, Swift.String?) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String, Swift.String?, Swift.String?, Swift.String?, Swift.String?, Swift.String?) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Tuple",
+                        "printedName": "(Swift.String, Swift.String?, Swift.String?, Swift.String?, Swift.String?, Swift.String?)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Swift.String?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "String",
+                                "printedName": "Swift.String",
+                                "usr": "s:SS"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC28qmkj_setTouchAdReportHandleryyySS_SSSgA4EtcSgF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC28qmkj_setTouchAdReportHandleryyySS_SSSgA4EtcSgF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setTouchAdIsNewUser",
+            "printedName": "qmkj_setTouchAdIsNewUser(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC24qmkj_setTouchAdIsNewUseryySbF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC24qmkj_setTouchAdIsNewUseryySbF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setTouchAdHostWindow",
+            "printedName": "qmkj_setTouchAdHostWindow(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIWindow?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIWindow",
+                    "printedName": "UIKit.UIWindow",
+                    "usr": "c:objc(cs)UIWindow"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC25qmkj_setTouchAdHostWindowyySo8UIWindowCSgF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC25qmkj_setTouchAdHostWindowyySo8UIWindowCSgF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_handleTouchAdEvent",
+            "printedName": "qmkj_handleTouchAdEvent(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIEvent",
+                "printedName": "UIKit.UIEvent",
+                "usr": "c:objc(cs)UIEvent"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC23qmkj_handleTouchAdEventyySo7UIEventCF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC23qmkj_handleTouchAdEventyySo7UIEventCF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_enableTouchAdEventForwarding",
+            "printedName": "qmkj_enableTouchAdEventForwarding()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC33qmkj_enableTouchAdEventForwardingyyF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC33qmkj_enableTouchAdEventForwardingyyF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_startTouchAd",
+            "printedName": "qmkj_startTouchAd(type:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "QMKJTouchAdStartType",
+                "printedName": "QMKJShanks.QMKJTouchAdStartType",
+                "hasDefaultArg": true,
+                "usr": "s:10QMKJShanks20QMKJTouchAdStartTypeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC17qmkj_startTouchAd4typeyAA09QMKJTouchG9StartTypeO_tF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC17qmkj_startTouchAd4typeyAA09QMKJTouchG9StartTypeO_tF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_touchAdVersion",
+            "printedName": "qmkj_touchAdVersion()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC19qmkj_touchAdVersionSSyF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC19qmkj_touchAdVersionSSyF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_isTouchAdOpen",
+            "printedName": "qmkj_isTouchAdOpen()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC18qmkj_isTouchAdOpenSbyF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC18qmkj_isTouchAdOpenSbyF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_enableTouchAdDebug",
+            "printedName": "qmkj_enableTouchAdDebug(with:mode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "QMKJTouchAdLogMode",
+                "printedName": "QMKJShanks.QMKJTouchAdLogMode",
+                "hasDefaultArg": true,
+                "usr": "s:10QMKJShanks18QMKJTouchAdLogModeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC23qmkj_enableTouchAdDebug4with4modeySS_AA09QMKJTouchG7LogModeOtF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC23qmkj_enableTouchAdDebug4with4modeySS_AA09QMKJTouchG7LogModeOtF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_disableTouchAdDebug",
+            "printedName": "qmkj_disableTouchAdDebug()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC24qmkj_disableTouchAdDebugyyF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC24qmkj_disableTouchAdDebugyyF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setTouchAdDebugAlpha",
+            "printedName": "qmkj_setTouchAdDebugAlpha(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC25qmkj_setTouchAdDebugAlpha_4withy14CoreFoundation7CGFloatV_SStF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC25qmkj_setTouchAdDebugAlpha_4withy12CoreGraphics7CGFloatV_SStF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_setTouchAdDebugChannelFlag",
+            "printedName": "qmkj_setTouchAdDebugChannelFlag(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC31qmkj_setTouchAdDebugChannelFlag_4withySb_SStF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC31qmkj_setTouchAdDebugChannelFlag_4withySb_SStF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_resolveTouchAdReportValue",
+            "printedName": "qmkj_resolveTouchAdReportValue(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC30qmkj_resolveTouchAdReportValue_4withSSSgSS_SStF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC30qmkj_resolveTouchAdReportValue_4withSSSgSS_SStF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "qmkj_encryptTouchAdRemoteValue",
+            "printedName": "qmkj_encryptTouchAdRemoteValue(_:with:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:10QMKJShanks13QMKJAdManagerC30qmkj_encryptTouchAdRemoteValue_4withSSSgSS_SStF",
+            "mangledName": "$s10QMKJShanks13QMKJAdManagerC30qmkj_encryptTouchAdRemoteValue_4withSSSgSS_SStF",
+            "moduleName": "QMKJShanks",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -4864,17 +6271,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -5202,17 +6609,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -5985,17 +7392,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -7806,6 +9213,1469 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWD+Extension.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2389,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDAdjustData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 127,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDAdjustData.swift",
+      "kind": "Array",
+      "offset": 173,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDAdjustData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 272,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDAdjustData.swift",
+      "kind": "Array",
+      "offset": 292,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 165,
+      "length": 8,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 203,
+      "length": 7,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 270,
+      "length": 3,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 283,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 392,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 22,
+      "value": "\"fjwd@2026#debug!9LmQ\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 536,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 724,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 943,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1163,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1270,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConfig.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1427,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 79,
+      "length": 7,
+      "value": "\"2.5.4\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 167,
+      "length": 12,
+      "value": "\"fj_wd_open\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 241,
+      "length": 16,
+      "value": "\"fj_wd_not_show\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 319,
+      "length": 25,
+      "value": "\"fj_wd_show_interstitial\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 406,
+      "length": 19,
+      "value": "\"fj_wd_click_limit\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 517,
+      "length": 25,
+      "value": "\"fj_wd_click_screen_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 592,
+      "length": 13,
+      "value": "\"fj_wd_click\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 663,
+      "length": 15,
+      "value": "\"fj_wd_request\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 752,
+      "length": 25,
+      "value": "\"Wed_ad_all_process_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 838,
+      "length": 18,
+      "value": "\"fj_wd_show_limit\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 921,
+      "length": 22,
+      "value": "\"fj_wd_request_result\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 997,
+      "length": 17,
+      "value": "\"fj_wd_load_fail\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1090,
+      "length": 27,
+      "value": "\"fj_wd_request_result_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1166,
+      "length": 12,
+      "value": "\"fj_wd_show\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1259,
+      "length": 26,
+      "value": "\"Web_ad_request_show_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1350,
+      "length": 22,
+      "value": "\"fj_wd_ignore_request\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1456,
+      "length": 35,
+      "value": "\"fj_wd_simulate_touch_change_point\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1550,
+      "length": 22,
+      "value": "\"fj_wd_simulate_touch\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1629,
+      "length": 20,
+      "value": "\"fj_wd_nature_touch\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1699,
+      "length": 13,
+      "value": "\"fj_wd_touch\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1768,
+      "length": 19,
+      "value": "\"fj_wd_touch_scene\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1856,
+      "length": 26,
+      "value": "\"fj_wd_touch_change_point\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 1979,
+      "length": 24,
+      "value": "\"fj_wd_load_limit_retry\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2065,
+      "length": 19,
+      "value": "\"fj_wd_cache_error\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2159,
+      "length": 21,
+      "value": "\"fj_wd_request_limit\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2238,
+      "length": 12,
+      "value": "\"fj_wd_lock\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2322,
+      "length": 19,
+      "value": "\"fj_wd_close_level\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2450,
+      "length": 29,
+      "value": "\"fj_wd_enter_foreground_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2550,
+      "length": 18,
+      "value": "\"fj_wd_level_idle\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2649,
+      "length": 22,
+      "value": "\"fj_wd_all_level_idle\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2763,
+      "length": 15,
+      "value": "\"fj_wd_is_open\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2840,
+      "length": 19,
+      "value": "\"fj_wd_reload_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2914,
+      "length": 18,
+      "value": "\"fj_wd_touch_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 2998,
+      "length": 23,
+      "value": "\"fj_wd_click_stay_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3101,
+      "length": 31,
+      "value": "\"fj_wd_click_go_home_stay_time\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3215,
+      "length": 28,
+      "value": "\"fj_wd_go_home_is_can_touch\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3318,
+      "length": 26,
+      "value": "\"fj_wd_is_open_safe_check\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3419,
+      "length": 29,
+      "value": "\"fj_wd_show_count_once_limit\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3511,
+      "length": 26,
+      "value": "\"fj_wd_ignore_request_url\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3604,
+      "length": 24,
+      "value": "\"fj_wd_show_count_limit\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3696,
+      "length": 25,
+      "value": "\"fj_wd_click_count_limit\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3807,
+      "length": 34,
+      "value": "\"fj_wd_new_user_touch_probability\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 3927,
+      "length": 34,
+      "value": "\"fj_wd_old_user_touch_probability\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4036,
+      "length": 26,
+      "value": "\"fj_wd_check_show_timeout\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4138,
+      "length": 27,
+      "value": "\"fj_wd_check_show_separate\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4238,
+      "length": 17,
+      "value": "\"fj_wd_url_array\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4297,
+      "length": 15,
+      "value": "\"fj_wd_js_code\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4390,
+      "length": 29,
+      "value": "\"fj_wd_allow_background_load\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4499,
+      "length": 25,
+      "value": "\"fj_wd_check_load_expire\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4583,
+      "length": 25,
+      "value": "\"fj_wd_item_policy_array\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4679,
+      "length": 23,
+      "value": "\"item_policy_array_ext\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4782,
+      "length": 23,
+      "value": "\"fj_wd_item_policy_ext\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4880,
+      "length": 15,
+      "value": "\"fj_wd_url_ext\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 4983,
+      "length": 23,
+      "value": "\"fj_wd_url_adjust_data\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 5072,
+      "length": 16,
+      "value": "\"fj_wd_res_data\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 5147,
+      "length": 16,
+      "value": "\"remote_payload\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDConst.swift",
+      "kind": "StringLiteral",
+      "offset": 5228,
+      "length": 14,
+      "value": "\"res_urls_ext\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlBasePresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2550,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlBasePresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5620,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlBasePresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5644,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlClickPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 429,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlClickPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 559,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1197,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1265,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1340,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1415,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1503,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1559,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1646,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "Array",
+      "offset": 1812,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "Array",
+      "offset": 1880,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlCountingPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1951,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "StringLiteral",
+      "offset": 150,
+      "length": 277,
+      "value": "\"function getPosition() {const iframes = [...document.querySelectorAll('iframe[data-load-complete=true]')];return iframes.map((iframe) => {const pos = iframe?.getBoundingClientRect();if (!pos) return null;const { x, y, width, height } = pos;return { x, y, width, height };});}\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "Array",
+      "offset": 479,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "Array",
+      "offset": 559,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "Array",
+      "offset": 768,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 849,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 921,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1004,
+      "length": 2,
+      "value": "90"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1085,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1152,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1221,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1301,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1384,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1484,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1587,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1767,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1852,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1926,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2025,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2125,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2207,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2284,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2370,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "Dictionary",
+      "offset": 2471,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "Dictionary",
+      "offset": 2532,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24761,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 24783,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26782,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 26804,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 49559,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 49601,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 49649,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 50024,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 50076,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "StringLiteral",
+      "offset": 50145,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 51050,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlHandler.swift",
+      "kind": "Dictionary",
+      "offset": 1240,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3909,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "StringLiteral",
+      "offset": 193,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "StringLiteral",
+      "offset": 321,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 378,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "Array",
+      "offset": 436,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1120,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1177,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1982,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2052,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2123,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2188,
+      "length": 2,
+      "value": "70"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2258,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2317,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2374,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2425,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2484,
+      "length": 2,
+      "value": "30"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2533,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "Array",
+      "offset": 2643,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2716,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2781,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2863,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlItemData.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2942,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1612,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1679,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1823,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1888,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1979,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2084,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2157,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2233,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2295,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2363,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "StringLiteral",
+      "offset": 2423,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "Dictionary",
+      "offset": 2500,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "StringLiteral",
+      "offset": 8821,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "StringLiteral",
+      "offset": 8839,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "StringLiteral",
+      "offset": 9618,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "StringLiteral",
+      "offset": 11416,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlLoadPresenter.swift",
+      "kind": "StringLiteral",
+      "offset": 11434,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 796,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "Dictionary",
+      "offset": 964,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1033,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1104,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1230,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "Array",
+      "offset": 1314,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2211,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8221,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8243,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlWKNaviPresenter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 811,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDControlWKNaviPresenter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 871,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDLog.swift",
+      "kind": "StringLiteral",
+      "offset": 423,
+      "length": 29,
+      "value": "\"https?:\/\/[^\\s,，\\]\\)\\\"]+\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDLog.swift",
+      "kind": "StringLiteral",
+      "offset": 556,
+      "length": 35,
+      "value": "\"(tag\\s*[:=]\\s*)([^\\s,，\\]\\)]+)\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDLog.swift",
+      "kind": "StringLiteral",
+      "offset": 682,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDLog.swift",
+      "kind": "StringLiteral",
+      "offset": 703,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDLog.swift",
+      "kind": "StringLiteral",
+      "offset": 833,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDLog.swift",
+      "kind": "StringLiteral",
+      "offset": 854,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDPointHandler.swift",
+      "kind": "BooleanLiteral",
+      "offset": 615,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "StringLiteral",
+      "offset": 325,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "IntegerLiteral",
+      "offset": 373,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "IntegerLiteral",
+      "offset": 421,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "IntegerLiteral",
+      "offset": 471,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "IntegerLiteral",
+      "offset": 524,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "StringLiteral",
+      "offset": 561,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "BooleanLiteral",
+      "offset": 646,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "BooleanLiteral",
+      "offset": 731,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "BooleanLiteral",
+      "offset": 816,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDRecord.swift",
+      "kind": "Dictionary",
+      "offset": 889,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDReportCipher.swift",
+      "kind": "StringLiteral",
+      "offset": 99,
+      "length": 6,
+      "value": "\"fj1:\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDReportCipher.swift",
+      "kind": "Array",
+      "offset": 148,
+      "length": 230,
+      "value": "[0x46, 0x4a, 0x57, 0x44, 0x21, 0x39, 0x7a, 0x4b, 0x52, 0x63, 0x70, 0x31, 0x55, 0x6d, 0x78, 0x59, 0x6e, 0x74, 0x34, 0x48, 0x51, 0x65, 0x32, 0x4c, 0x61, 0x38, 0x73, 0x44, 0x50, 0x76, 0x35, 0x58]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDReportCipher.swift",
+      "kind": "Array",
+      "offset": 426,
+      "length": 230,
+      "value": "[0x31, 0x68, 0x54, 0x6b, 0x21, 0x57, 0x39, 0x61, 0x50, 0x72, 0x34, 0x4d, 0x62, 0x58, 0x79, 0x38, 0x4e, 0x63, 0x32, 0x51, 0x75, 0x4a, 0x36, 0x64, 0x4b, 0x70, 0x35, 0x5a, 0x73, 0x46, 0x76, 0x37]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDResoure.swift",
+      "kind": "IntegerLiteral",
+      "offset": 502,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDResoure.swift",
+      "kind": "IntegerLiteral",
+      "offset": 569,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDResoure.swift",
+      "kind": "BooleanLiteral",
+      "offset": 653,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDResoure.swift",
+      "kind": "IntegerLiteral",
+      "offset": 801,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDTracking.swift",
+      "kind": "Dictionary",
+      "offset": 178,
+      "length": 3,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDTracking.swift",
+      "kind": "Array",
+      "offset": 233,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDTracking.swift",
+      "kind": "Array",
+      "offset": 287,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDTracking.swift",
+      "kind": "Array",
+      "offset": 337,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 241,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 313,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 453,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 521,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 646,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdapter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 510,
+      "length": 2,
+      "value": "20"
+    },
+    {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdapterEnum.swift",
       "kind": "StringLiteral",
       "offset": 187,
@@ -8192,36 +11062,64 @@
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 175,
+      "length": 8,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 193,
+      "length": 7,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 264,
+      "length": 3,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
+      "kind": "IntegerLiteral",
+      "offset": 277,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11329,
+      "offset": 13999,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14261,
+      "offset": 16931,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14649,
+      "offset": 17319,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16414,
+      "offset": 19084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJAdManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 21001,
+      "offset": 23671,
       "length": 5,
       "value": "false"
     },

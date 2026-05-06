@@ -7,5 +7,4 @@ framework module QMKJShanks {
 
 module QMKJShanks.Swift {
   header "QMKJShanks-Swift.h"
-  requires objc
 }
