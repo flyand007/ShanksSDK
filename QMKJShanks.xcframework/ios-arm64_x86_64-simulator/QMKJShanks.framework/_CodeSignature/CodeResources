@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pN/PnAae3YFXVKzZx2LhD9q71jI=
+		PbEftpzo9/4JF2kANmCwltnKnlA=
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		q94OrqQ5gaIQlAfuC9VIkpT/OcU=
+		zZDiWUIDqVA2dOSwnQzWpOfWNFI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -116,7 +116,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWUe0aUKkQvxDXOH7VIUhx0CpUrRtKnWCYL+YoAvDws=
+			iApYreZGvq0gyvToxGVtlGHyOdMV+ZOM02EK6+lTutk=
 			</data>
 		</dict>
 		<key>Modules/QMKJShanks.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -144,7 +144,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bWPd5F0b3yv+fEraFJvTPvMQBb+6VoYfcN5/dvRMSo4=
+			N4WKtdlaBR9ezA6roO9u3pVV9dqbwQirbMj8u4gvghY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
