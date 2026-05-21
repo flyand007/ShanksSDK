@@ -33,6 +33,7 @@ Pod::Spec.new do |s|
   # 你的依赖（保持不变）
   s.dependency 'Google-Mobile-Ads-SDK'
   s.dependency 'FirebaseRemoteConfig'
+  s.dependency 'FirebaseAnalytics'
   s.dependency 'SVProgressHUD'
   s.dependency 'SensorsAnalyticsSDK'
   s.dependency 'SnapKit'
