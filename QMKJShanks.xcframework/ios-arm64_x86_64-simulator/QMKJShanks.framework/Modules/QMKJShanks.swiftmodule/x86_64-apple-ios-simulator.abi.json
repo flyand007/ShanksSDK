@@ -1017,16 +1017,6 @@
       },
       {
         "kind": "Import",
-        "name": "SensorsAnalyticsSDK",
-        "printedName": "SensorsAnalyticsSDK",
-        "declKind": "Import",
-        "moduleName": "QMKJShanks",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -7092,6 +7082,23 @@
       },
       {
         "kind": "Import",
+        "name": "FirebaseAnalytics",
+        "printedName": "FirebaseAnalytics",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "QMKJShanks"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -10608,14 +10615,14 @@
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDTracking.swift",
       "kind": "Array",
-      "offset": 176,
+      "offset": 149,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/FJWD\/FJWDTracking.swift",
       "kind": "Array",
-      "offset": 230,
+      "offset": 203,
       "length": 2,
       "value": "[]"
     },
@@ -11126,35 +11133,35 @@
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
-      "offset": 660,
+      "offset": 733,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
-      "offset": 1298,
+      "offset": 1371,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
-      "offset": 1910,
+      "offset": 1983,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "IntegerLiteral",
-      "offset": 2460,
+      "offset": 2533,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJADTracking+Process.swift",
       "kind": "Dictionary",
-      "offset": 5143,
+      "offset": 5216,
       "length": 3,
       "value": "[]"
     },
@@ -11332,6 +11339,20 @@
       "offset": 1230,
       "length": 14,
       "value": "\"ad_unit_name\""
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJFirebaseTrackingReporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 217,
+      "length": 2,
+      "value": "40"
+    },
+    {
+      "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/Tracking\/QMKJFirebaseTrackingReporter.swift",
+      "kind": "IntegerLiteral",
+      "offset": 266,
+      "length": 3,
+      "value": "100"
     },
     {
       "filePath": "\/Users\/lijian\/Desktop\/shanks\/Classes\/QMKJLogger.swift",

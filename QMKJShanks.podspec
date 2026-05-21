@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'QMKJShanks'
-  s.version          = '1.3.7'
+  s.version          = '1.3.8'
   s.summary          = 'ShanksLib binary distribution'
   s.description      = <<-DESC
     ShanksLib 是一个闭源 Framework，提供 XXX 功能。
@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   # ① 指向包含 .xcframework 和 .bundle 的 zip（根目录）
   s.source = {
-    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.3.7/QMKJShanks_Package.zip'
+    :http => 'https://github.com/flyand007/ShanksSDK/releases/download/1.3.8/QMKJShanks_Package.zip'
   }
 
   # ② 声明二进制框架
@@ -40,23 +40,23 @@ Pod::Spec.new do |s|
 s.dependency 'Adjust'
 
         s.dependency 'GoogleMobileAdsMediationFacebook', '6.21.1.0'
-   s.dependency 'GoogleMobileAdsMediationAppLovin', '13.6.0.0'
-   s.dependency 'GoogleMobileAdsMediationVungle', '7.7.0.0'
-   s.dependency 'GoogleMobileAdsMediationUnity', '4.16.6.1'
-   s.dependency 'bigo-ads-admob-adapter', '5.1.0.0'
-   s.dependency 'GoogleMobileAdsMediationPangle', '7.9.0.6.0'
-   s.dependency 'GoogleMobileAdsMediationMintegral', '8.0.7.0'
-   s.dependency 'GoogleMobileAdsMediationIronSource', '9.3.0.0.1'
-   s.dependency 'GoogleMobileAdsMediationMoloco', '4.3.0.2'
+   s.dependency 'GoogleMobileAdsMediationAppLovin', '13.6.2.0'
+   s.dependency 'GoogleMobileAdsMediationVungle', '7.7.2.1'
+   s.dependency 'GoogleMobileAdsMediationUnity', '4.18.0.0'
+   s.dependency 'bigo-ads-admob-adapter', '5.1.2.0'
+   s.dependency 'GoogleMobileAdsMediationPangle', '7.9.1.1.0'
+   s.dependency 'GoogleMobileAdsMediationMintegral', '8.1.3.1'
+   s.dependency 'GoogleMobileAdsMediationIronSource', '9.4.1.0.0'
+   s.dependency 'GoogleMobileAdsMediationMoloco', '4.6.1.1'
 
-   s.dependency 'AppLovinMediationGoogleAdapter', '13.1.0.1'
-   s.dependency 'AppLovinMediationMintegralAdapter', '8.0.7.0.0'
-   s.dependency 'AppLovinMediationUnityAdsAdapter', '4.16.6.0'
-   s.dependency 'AppLovinMediationVungleAdapter', '7.7.0.0'
+   s.dependency 'AppLovinMediationGoogleAdapter', '13.3.0.0'
+   s.dependency 'AppLovinMediationMintegralAdapter', '8.1.3.0.0'
+   s.dependency 'AppLovinMediationUnityAdsAdapter', '4.18.0.0'
+   s.dependency 'AppLovinMediationVungleAdapter', '7.7.2.1'
    s.dependency 'AppLovinMediationFacebookAdapter', '6.21.1.0'
-   s.dependency 'AppLovinMediationBigoAdsAdapter', '5.1.0.0'
-   s.dependency 'AppLovinMediationFyberAdapter', '8.4.5.0'
-   s.dependency 'AppLovinMediationIronSourceAdapter', '9.3.0.0.0'
-   s.dependency 'AppLovinMediationByteDanceAdapter', '7.9.0.6.1'
-   s.dependency 'AppLovinMediationMolocoAdapter'
+   s.dependency 'AppLovinMediationBigoAdsAdapter', '5.1.2.0'
+   s.dependency 'AppLovinMediationFyberAdapter', '8.4.7.0'
+   s.dependency 'AppLovinMediationIronSourceAdapter', '9.4.1.0.0'
+   s.dependency 'AppLovinMediationByteDanceAdapter', '7.9.1.1.0'
+   s.dependency 'AppLovinMediationMolocoAdapter', '4.6.1.1'
 end
